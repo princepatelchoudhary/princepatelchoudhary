@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-patel-77a32923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-patel-77a32923a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prince_patel_kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prince_patel_kumar/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/princepatelchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/princepatelchoudhary/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prince-kumar-patel-77a32923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-kumar-patel-77a32923a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prince_patel_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_patel_kumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/princepatelchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="princepatelchoudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
